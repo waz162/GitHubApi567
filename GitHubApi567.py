@@ -19,5 +19,4 @@ def pull_info(username):
         return 'Please enter a valid username'
     return 'Successful'
 
-username = input("Enter the github username:")
-print(pull_info(username))
+# uname = input("Enter the github username:")

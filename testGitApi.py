@@ -9,3 +9,7 @@ class testGitApi(unittest.TestCase):
 
     def testPullFalse(self):
         self.assertEqual(pull_info('fdjskfdsakf'), "Please enter a valid username", "The pull was failed, the username doesn't work")
+
+if __name__ == '__main__':
+    print('Running unit tests')
+    unittest.main()
