@@ -6,3 +6,6 @@ class testGitApi(unittest.TestCase):
 
     def testPullTrue(self):
         self.assertEqual(pull_info('waz162'), "Successful", "The pull was succesful")
+
+    def testPullFalse(self):
+        self.assertEqual(pull_info('fdjskfdsakf'), "Please enter a valid username", "The pull was failed, the username doesn't work")
