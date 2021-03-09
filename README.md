@@ -11,3 +11,5 @@ returned what it needed to it was successful. If not it would be a failure. The 
 were first setting up the code to even work, learning API's was interesting but a little complicated.
 Then figuring out how to set up a test case was a little bit of a struggle. The most difficuult
 part of the assignment was trying to work around the github api limit. This stopped a lot of the work flow
+
+[![build status of master](https://travis-ci.org/waz162/GitHubApi567.svg?branch=main)](https://travis-ci.org/waz162/GitHubApi567)
