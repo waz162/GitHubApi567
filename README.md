@@ -13,3 +13,4 @@ Then figuring out how to set up a test case was a little bit of a struggle. The 
 part of the assignment was trying to work around the github api limit. This stopped a lot of the work flow
 
 [![build status of master](https://travis-ci.org/waz162/GitHubApi567.svg?branch=main)](https://travis-ci.org/waz162/GitHubApi567)
+(Might show up as cancelled if API limit is reached)
